@@ -1,0 +1,22 @@
+.char-details {
+    min-height: 280px;
+    background: url('/img/book-wraper.jpeg') center,center no-repeat;
+    padding: 25px 25px 15px 25px;
+    margin-bottom: 40px;
+  }
+
+
+.char-details h4 {
+    display: block;
+    width: 200px;
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.4);
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.select-error {
+    color: #fff;
+    text-align: center;
+    font-size: 26px;
+}
